@@ -32,22 +32,21 @@ handleClick = characterId => {
         this.shuffle(this.state.characters);
         this.setState({clicked: []})
     } else{
-      this.handleIncrement();
-      console.log(this.state.score);
-      this.state.clicked.push(characterId);
-      this.shuffle(this.state.characters);
-      if(this.state.score === this.state.characters.length -1){
-        this.setState({userMessage: "YOU WIN"})
-        setTimeout(
-          function() {
-            this.setState({userMessage:""});
-          }
-          .bind(this),
-          3000
-      );
-        this.setState({score:0})
+        this.handleIncrement();
+        this.state.clicked.push(characterId);
         this.shuffle(this.state.characters);
-        this.setState({clicked: []})
+        if(this.state.score === this.state.characters.length -1){
+          this.setState({userMessage: "YOU WIN"})
+          setTimeout(
+            function() {
+              this.setState({userMessage:""});
+            }
+            .bind(this),
+            3000
+          );
+          this.setState({score:0})
+          this.shuffle(this.state.characters);
+          this.setState({clicked: []})
       }
     }
 }
