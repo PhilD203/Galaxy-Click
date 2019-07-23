@@ -2,8 +2,8 @@ import React from "react";
 
 function Nav() {
     return (
-        <nav class="navbar navbar-light bg-light">
-            <span class="navbar-text">
+        <nav className="navbar navbar-light bg-light">
+            <span className="navbar-text">
                 Galaxy Click
              </span>
         </nav>

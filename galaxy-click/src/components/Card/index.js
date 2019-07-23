@@ -5,7 +5,7 @@ import "./style.css";
 
 function StarCard(props){
     return(
-        <div className = "card">
+        <div className = "card" onClick={() => {props.handleClick(props.id)}} >
             <div className = "img-container">
             <img alt={props.name} src={props.image} id="cardImg" />
             </div>
@@ -18,7 +18,7 @@ function StarCard(props){
                 <strong>Occupation:</strong> {props.occupation}
             </li>
             <li>
-                
+            
             </li>
 
             </ul>
