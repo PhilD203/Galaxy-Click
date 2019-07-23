@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Luke SkyWalker",
+        "image":"https://www.black-leatherjacket.com/image/cache/data/star-wars/luke-skywalker-the-empire-strike-back-hoth-jacket-900x900.jpg",
+        "occupation": "Jedi Knight",
+        "location": "A Galaxy Far Far Away"
+    },
+    {
+        "id": 2,
+        "name": "Han Solo",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-H2VOBGxrRKs4kY6dDMEZ3vlfsvEdhQfL7r0rNbk40a5qrZlTcg",
+        "occupation": "Smuggler",
+        "location": "A Galaxy Far Far Away"
+    },
+    {
+        "id": 3,
+        "name": "Princess Leia",
+        "image":"https://vignette.wikia.nocookie.net/padmeamidala/images/d/db/4116398_f520.jpg/revision/latest?cb=20130403202521",
+        "occupation": "Rebel",
+        "location": "A Galaxy Far Far Away"
+    },
+    {
+        "id": 4,
+        "name": "Lando",
+        "image":"https://i.kinja-img.com/gawker-media/image/upload/s--J5LUx8rA--/c_scale,f_auto,fl_progressive,q_80,w_800/1259387707318142537.jpg",
+        "occupation": "Smuggler",
+        "location": "A Galaxy Far Far Away"
+    },
+    {
+        "id": 5,
+        "name": "R2D2",
+        "image":"https://photos.imageevent.com/afap/wallpapers/movies/starwarsanewhope//R2D2.png",
+        "occupation": "Robot",
+        "location": "A Galaxy Far Far Away"
+    },
+    {
+        "id": 6,
+        "name": "C3P0",
+        "image":"https://cdn.images.express.co.uk/img/dynamic/36/590x/secondary/Star-Wars-C3PO-is-shocked-by-the-foul-language-964367.jpg",
+        "occupation": "Human Cyborg Relations",
+        "location": "A Galaxy Far Far Away"
+    }
+]
+
+
