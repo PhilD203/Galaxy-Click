@@ -1,6 +1,7 @@
 #counter{
     background: url("https://fontmeme.com/permalink/190723/9ee91c3534f54bcf3cd61794af89636e.png");
     background-size: cover;
+    min-height: 15em;
 }
 #scoreClicked{
     color: white;
