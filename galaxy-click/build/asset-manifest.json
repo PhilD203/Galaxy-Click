@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Galaxy-Click/static/css/main.2e187f88.chunk.css",
+    "main.js": "/Galaxy-Click/static/js/main.b996f6a0.chunk.js",
+    "main.js.map": "/Galaxy-Click/static/js/main.b996f6a0.chunk.js.map",
+    "runtime~main.js": "/Galaxy-Click/static/js/runtime~main.5da45ed8.js",
+    "runtime~main.js.map": "/Galaxy-Click/static/js/runtime~main.5da45ed8.js.map",
+    "static/js/2.4fa5e42c.chunk.js": "/Galaxy-Click/static/js/2.4fa5e42c.chunk.js",
+    "static/js/2.4fa5e42c.chunk.js.map": "/Galaxy-Click/static/js/2.4fa5e42c.chunk.js.map",
+    "index.html": "/Galaxy-Click/index.html",
+    "precache-manifest.9b99a71681d9c3b8721379fca6c0b8e4.js": "/Galaxy-Click/precache-manifest.9b99a71681d9c3b8721379fca6c0b8e4.js",
+    "service-worker.js": "/Galaxy-Click/service-worker.js",
+    "static/css/main.2e187f88.chunk.css.map": "/Galaxy-Click/static/css/main.2e187f88.chunk.css.map"
+  }
+}
